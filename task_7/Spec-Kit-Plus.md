@@ -47,7 +47,7 @@ The Spec-Kit Plus workflow uses slash commands to structure the AI collaboration
 
 | Workflow Phase | Description | Output/Goal |
 | :--- | :--- | :--- |
-| **Phase 1: Constitution** | Define the project-wide standards, constraints, and **non-negotiable quality criteria** for success across all work. | Documented project-wide quality standards. |
+| **Phase 1: Constitution** | Define the project-wide standards, rules, constraints, and **non-negotiable quality criteria** for success across all work. | Documented project-wide quality standards. |
 | **Phase 2: Specification** | Write clear, testable, and unambiguous requirements for the feature using **SMART criteria** (Specific, Measurable, Achievable, Relevant, Time-bound). This is done using the `/sp.specify` slash command. | Clear, executable requirements (in `specs/`). |
 | **Phase 3: Planning** | Design the architecture, select technology choices, and determine the *how* of the implementation. Crucially, this phase **documents the rationale** for these choices in **ADRs**. This is done using the `/sp.plan` slash command. | Implementation plans and Architectural Decision Records (ADRs). |
 | **Phase 4: Tasks** | Break the planned work down into **atomic, measurable, and independent units**. These are the smallest chunks of work that can be executed and validated. This is done using the `/sp.tasks` slash command. | Atomic task list with checkpoints/validation steps. |
