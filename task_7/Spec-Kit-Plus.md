@@ -43,7 +43,7 @@ This is the creation of **active, reusable components** that your AI tool can in
 
 ## 💻 Spec-Kit Plus Core Workflow Phases
 
-The Spec-Kit Plus workflow uses slash commands to structure the AI collaboration. Here are the first five core concepts (workflow phases) you asked to review:
+The Spec-Kit Plus workflow uses slash commands to structure the AI collaboration. Here are the five core concepts (workflow phases) review:
 
 | Workflow Phase | Description | Output/Goal |
 | :--- | :--- | :--- |
