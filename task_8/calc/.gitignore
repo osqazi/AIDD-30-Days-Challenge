@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.Python
+build/
+develop-eggs/
+eggs/
+lib/
+lib64/
+*.so
+*.egg
+.tox/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and Environment
+*.log
+.env
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
