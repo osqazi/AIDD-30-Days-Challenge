@@ -503,5 +503,15 @@ With multiple developers:
 
 
 
+![calcImg1](calcImg1.png)
+
+---
+
+![calcImg2](calcImg2.png)
+
+---
+
+![calcImg3](calcImg3.png)
+
 
 
